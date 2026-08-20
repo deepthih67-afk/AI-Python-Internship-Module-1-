@@ -1,0 +1,7 @@
+name = "Deepthi H"
+age = 19
+course = "Artificial Intelligence"
+
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
